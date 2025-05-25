@@ -4,12 +4,12 @@ I'm a QA professional with **10.5+ years** of experience in software testing, in
 
 ## 💼 Experience Highlights
 
-- ✅ Led and mentored QA automation teams of up to 5 members across agile projects  
-- ✅ Designed and implemented robust automation frameworks using Selenium, TestNG, REST Assured, Appium, and Testim  
+- ✅ Led and mentored QA automation teams of up to 5 members. 
+- ✅ Designed and implemented robust automation frameworks using Selenium, TestNG, REST Assured, Appium, and Testim. 
 - ✅ Specialized in test automation strategy, scalable framework development, and CI/CD integration  
 - ✅ Extensive experience in API automation, database validation, and cross-platform mobile/web testing  
 - ✅ Strong foundation in manual testing with a focus on automating high-risk, high-value test cases  
-- ✅ Proven domain expertise in **Insurance, Fintech, Telecom**, and **Life Sciences**
+- ✅ Proven domain expertise in **Insurance, Fintech, Banking, Telecom**, and **Life Sciences**
 
 ## 🛠️ Skills
 - **Automation Tools**: Selenium, Appium, REST Assured, Cypress, Testim
