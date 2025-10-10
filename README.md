@@ -38,7 +38,11 @@ A simple test framework for HMarkets website's webform testing using Selenium We
 A sample Selenium project using Java, TestNG, and POM structure with customized extent reporting. This project covers sorting , data driven code structure.
 - Technologies: Selenium, Java, TestNG, Maven 
 - [View Repo](https://github.com/jyothilashmi/Selenium-Framework-Sample)
+### 🔹Sauce Demo Cypress Automation Framework
 
+A sample full automation test suite for the Sauce Demo e-commerce web application (available at saucedemo.com), built using Cypress with a Page Object Model structure. The suite emulates real-world user flows, from login to product selection to checkout, with validations after each step. 
+Technologies used: JavaScript, Cypress, Mocha/Mochawesome Reports, POM (Page Object Model)
+- [View Repo](https://github.com/jyothilashmi/sauce-demo-cypress)
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jyothi-lakshmi-s-b20054119)
 - 📧 jyothilakshmisree04@gmail.com
